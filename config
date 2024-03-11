@@ -1,0 +1,5 @@
+species	assembly_version	annotation	chainmap
+Human	hg38
+Mouse	mm39
+Drosophila	dm6
+Zebrafish	danrer11
