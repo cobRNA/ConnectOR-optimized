@@ -31,3 +31,9 @@ To execute connector clone this repository locally. Following folders/files must
     • dictionaries 
     • ./scripts/
 ```
+#### config example (Human vs Mouse)
+```sh
+species	assembly_version	annotation	chainmap
+Human	hg38
+Mouse	mm39
+```
