@@ -11,9 +11,11 @@ pip install pandas.
 pip install matplotlib.
 pip install networkx.
 pip install matplotlib-venn
+```
+### install python library
 ```sh
-## install python library
-#### install.packages("reshape2")
-#### install.packages("ggplot2")
-#### install.packages("scales")
-#### install.packages("dplyr")
+install.packages("reshape2")
+install.packages("ggplot2")
+install.packages("scales")
+install.packages("dplyr")
+```
