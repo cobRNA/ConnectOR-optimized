@@ -51,31 +51,5 @@ Python ConnectOR_v2.1.py
 ```
 #### Orthology - Human (v43) vs Mouse (vM32) – GENCODE
 
-### Notes:
-1. **Ensure the Image is in the Correct Path**: The `Human_Mouse.png` file should be in the root directory of your repository, or adjust the path accordingly if it's in a subdirectory.
-2. **Correct Markdown Syntax**: The correct syntax to display an image in Markdown is `![Description of image](path/to/image.png)`. Ensure no extra brackets or parentheses are used.
-3. **Check Image Visibility**: After pushing the changes, verify on GitHub that the image is displayed correctly in the `README.md` file.
 
-### Full Sequence of Commands
-
-Here’s the full sequence of commands for uploading the image and updating the `README.md` file:
-
-```sh
-# Navigate to your local repository
-cd (https://github.com/cobRNA/ConnectOR-optimized/edit/main/)
-
-
-
-# Add and commit the image file
-git add Human_Mouse.png
-git commit -m "Add Human_Mouse.png"
-git push origin main
-
-# Update the README.md file to include the image
-echo '![Description of image](Human_Mouse.png)' >> README.md
-
-# Add and commit the updated README.md file
-git add README.md
-git commit -m "Update README to include image"
-git push origin main
 
