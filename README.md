@@ -4,9 +4,10 @@ Optimized and modified version of ConnectOR (https://github.com/Carlospq/Connect
 Optimized & modified by: Sasti Gopal Das
 ## Prerequisites:
 ### install python library
-
-pip install argparse.
-pip install wget.
+####
+pip install argparse
+####
+pip install wget
 pip install pandas.
 pip install matplotlib.
 pip install networkx.
