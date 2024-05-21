@@ -10,3 +10,8 @@ Optimized & modified by: Sasti Gopal Das
 #### pip install matplotlib.
 #### pip install networkx.
 #### pip install matplotlib-venn.
+## install python library
+#### install.packages("reshape2")
+#### install.packages("ggplot2")
+#### install.packages("scales")
+#### install.packages("dplyr")
