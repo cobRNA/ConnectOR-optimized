@@ -37,7 +37,7 @@ species	assembly_version	annotation	chainmap
 Human	hg38
 Mouse	mm39
 ```
-#### config example (config example (Human vs Zebrafish))
+#### config example (Human vs Zebrafish)
 ```sh
 species	assembly_version	annotation	chainmap
 Human	hg38
