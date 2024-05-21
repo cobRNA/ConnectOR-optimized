@@ -43,3 +43,7 @@ species	assembly_version	annotation	chainmap
 Human	hg38
 Zebrafish	danrer11
 ```
+#### Execution command:
+```sh
+Python ConnectOR_v2.1.py
+```
