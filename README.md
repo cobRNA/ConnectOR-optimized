@@ -19,3 +19,7 @@ install.packages("ggplot2")
 install.packages("scales")
 install.packages("dplyr")
 ```
+### install BedTools
+```sh
+BedTools
+```
