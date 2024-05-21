@@ -26,7 +26,7 @@ BedTools
 ## Set Up:
 ```sh
 To execute connector clone this repository locally. Following folders/files must be in the same path from command is executed:
-    • ConnectOR.py 
+    • ConnectOR_V2.1.py 
     • config 
     • dictionaries 
     • ./scripts/
