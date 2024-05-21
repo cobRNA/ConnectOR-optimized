@@ -48,7 +48,4 @@ Zebrafish	danrer11
 Python ConnectOR_v2.1.py
 ```
 #### Orthology - Human (v43) vs Mouse (vM32) – GENCODE
-cp https://github.com/cobRNA/ConnectOR-optimized/tree/main/Human_Mouse.png .
-git add Human_Mouse.png
-git commit -m "Human_Mouse.png"
-git push origin main
+![Description of image]([image.png](https://github.com/cobRNA/ConnectOR-optimized/tree/main/Human_Mouse.png))
