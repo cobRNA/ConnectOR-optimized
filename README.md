@@ -5,24 +5,13 @@ Optimized & modified by: Sasti Gopal Das
 ## Prerequisites:
 #### install python library
 ```sh
-pip install argparse
 pip install wget
-pip install pandas.
-pip install matplotlib.
-pip install networkx.
-pip install matplotlib-venn
-```
-#### install python library
-```sh
-install.packages("reshape2")
-install.packages("ggplot2")
-install.packages("scales")
-install.packages("dplyr")
+pip install pandas
+pip install matplotlib
+pip install networkx
 ```
 ### install BedTools
 ```sh
-BedTools
-or
 sudo apt-get install bedtools
 ```
 ## Set Up:
