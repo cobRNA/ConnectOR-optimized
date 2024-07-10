@@ -5,10 +5,10 @@ Optimized & modified by: Sasti Gopal Das
 ## Prerequisites:
 #### install python library
 ```sh
-pip install wget
-pip install pandas
-pip install matplotlib
-pip install networkx
+python -m pip install wget
+python -m pip install pandas
+python -m pip install matplotlib
+python -m pip install networkx
 ```
 ### install BedTools
 ```sh
