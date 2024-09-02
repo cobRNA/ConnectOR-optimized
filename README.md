@@ -7,8 +7,6 @@ Optimized & modified by: Sasti Gopal Das
 ```sh
 python -m pip install wget
 python -m pip install pandas
-python -m pip install matplotlib
-python -m pip install networkx
 ```
 ### install BedTools
 ```sh
