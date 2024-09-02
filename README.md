@@ -47,6 +47,16 @@ Zebrafish	danrer11
 #### Execution command:
 ```sh
 Python ConnectOR_v2.1.py
+
+usage: ConnectOR.v2.py [-h] [-mM MINMATCH] [-g]
+optional arguments:
+
+-h, --help show this help message and exit
+-mM MINMATCH, --minMatch MINMATCH
+       0.N Minimum ratio of bases that must remap in liftOver
+       step.Default: 30 (0.30 minimum ratio)
+-g, --gene Generate results at gene level results (default: False)
+
 ```
 ##  Gene Clustering
 ![Cluster JPG](https://github.com/cobRNA/ConnectOR-optimized/blob/main/raw/Cluster.jpg)
