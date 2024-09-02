@@ -48,7 +48,6 @@ Zebrafish	danrer11
 ```sh
 Python ConnectOR_v2.1.py
 ```
-####  Gene Clustering
-
-
+##  Gene Clustering
+![Human JPG](https://github.com/cobRNA/ConnectOR-optimized/blob/main/raw/ConnectOR.jpg)
 
