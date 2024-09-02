@@ -14,7 +14,7 @@ ggplot2
 tidyr
 dplyr
 ```
-### install BedTools
+#### install BedTools
 ```sh
 sudo apt-get install bedtools
 ```
