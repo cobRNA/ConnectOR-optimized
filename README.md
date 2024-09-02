@@ -3,7 +3,7 @@ Optimized and modified version of ConnectOR (https://github.com/Carlospq/Connect
 
 Optimized & modified by: Sasti Gopal Das
 ## Prerequisites:
-#### install python library
+#### Python3:
 ```sh
 python -m pip install wget
 python -m pip install pandas
