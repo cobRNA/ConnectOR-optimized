@@ -7,6 +7,8 @@ Optimized & modified by: Sasti Gopal Das
 
 ##### install Packages
 ```sh
+install Packages
+
 wget
 pandas
 ```
