@@ -62,3 +62,5 @@ optional arguments:
 ##  Gene Clustering
 ![Cluster JPG](https://github.com/cobRNA/ConnectOR-optimized/blob/main/raw/Cluster.jpg)
 
+##  Orthology - Human (v47) vs Mouse (vM36) - GENCODE
+
