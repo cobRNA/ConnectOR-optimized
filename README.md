@@ -5,7 +5,6 @@ Optimized & modified by: Sasti Gopal Das
 ## Prerequisites:
 #### Python3:
 
-##### install Packages
 ```sh
 install Packages
 
@@ -14,6 +13,8 @@ pandas
 ```
 #### R:
 ```sh
+install Packages
+
 ggplot2
 tidyr
 dplyr
