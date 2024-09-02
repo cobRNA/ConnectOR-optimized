@@ -5,8 +5,14 @@ Optimized & modified by: Sasti Gopal Das
 ## Prerequisites:
 #### Python3:
 ```sh
-python -m pip install wget
-python -m pip install pandas
+wget
+pandas
+```
+#### R:
+```sh
+ggplot2
+tidyr
+dplyr
 ```
 ### install BedTools
 ```sh
