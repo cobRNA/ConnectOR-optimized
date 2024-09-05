@@ -2,7 +2,7 @@
 Optimized and modified version of ConnectOR (https://github.com/Carlospq/ConnectOR) originaly developed by Carlos Pulido and Daniel Kużnicki.
 
 Optimized & modified by: Sasti Gopal Das
-![Human JPG](https://github.com/cobRNA/ConnectOR-optimized/blob/main/raw/ConnectOR.jpg)
+![Human JPG](https://github.com/cobRNA/ConnectOR-optimized/blob/main/image/ConnectOR.v.3.0.jpg)
 ## Prerequisites:
 #### Python3:
 
@@ -60,8 +60,8 @@ optional arguments:
 
 ```
 ##  Gene Clustering
-![Cluster JPG](https://github.com/cobRNA/ConnectOR-optimized/blob/main/raw/Cluster.jpg)
+![Cluster JPG](https://github.com/cobRNA/ConnectOR-optimized/blob/main/image/Cluster.jpg)
 
 ##  Orthology - Human (v47) vs Mouse (vM36) - GENCODE
-![othology JPG](https://github.com/cobRNA/ConnectOR-optimized/blob/main/raw/othology.jpg)
+![othology JPG](https://github.com/cobRNA/ConnectOR-optimized/blob/main/image/othology.jpg)
 
