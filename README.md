@@ -38,11 +38,11 @@ species	assembly_version	annotation	chainmap
 Human	hg38
 Mouse	mm39
 ```
-#### config example (Human vs Zebrafish)
+#### config example (Tab delimited file):
 ```sh
 species	assembly_version	annotation	chainmap
-Human	hg38
-Zebrafish	danrer11
+Human	hg38	GTFs/gencode.v47.primary_assembly.annotation.gtf.gz	chainmaps/hg38ToMm39.over.chain.gz
+Mouse	mm39	GTFs/gencode.vM36.primary_assembly.annotation.gtf.gz	chainmaps/mm39ToHg38.over.chain.gz
 ```
 #### Execution command:
 ```sh
