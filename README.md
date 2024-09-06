@@ -27,7 +27,7 @@ sudo apt-get install bedtools
 ## Set Up:
 ```sh
 To execute connector clone this repository locally. Following folders/files must be in the same path from command is executed:
-    • ConnectOR_V2.1.py 
+    • ConnectOR.v.3.0.py 
     • config 
     • dictionaries 
     • ./scripts/
@@ -46,9 +46,9 @@ Mouse	mm39	GTFs/gencode.vM36.primary_assembly.annotation.gtf.gz	chainmaps/mm39To
 ```
 #### Execution command:
 ```sh
-Python ConnectOR_v2.1.py
+Python ConnectOR.v.3.0.py
 
-usage: ConnectOR.v2.py [-h] [-mM MINMATCH] [-g]
+usage: ConnectOR.v.3.0.py [-h] [-mM MINMATCH] [-g]
 
 optional arguments:
 
