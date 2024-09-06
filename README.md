@@ -60,7 +60,7 @@ optional arguments:
 
 ```
 ##  Gene Clustering
-![Cluster JPG](https://github.com/cobRNA/ConnectOR-optimized/blob/main/image/Cluster.jpg)
+![Cluster JPG](https://github.com/cobRNA/ConnectOR-optimized/blob/main/image/Clustering.jpg)
 
 ##  Orthology - Human (v47) vs Mouse (vM36) - GENCODE
 ![othology JPG](https://github.com/cobRNA/ConnectOR-optimized/blob/main/image/othology.jpg)
