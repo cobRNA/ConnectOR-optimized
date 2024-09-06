@@ -1,3 +1,0 @@
-species	assembly_version	annotation	chainmap
-Human	hg38	GTFs/gencode.v47.primary_assembly.annotation.gtf.gz	chainmaps/hg38ToMm39.over.chain.gz
-Mouse	mm39	GTFs/gencode.vM36.primary_assembly.annotation.gtf.gz	chainmaps/mm39ToHg38.over.chain.gz
