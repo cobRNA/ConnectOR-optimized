@@ -56,7 +56,7 @@ optional arguments:
 -mM MINMATCH, --minMatch MINMATCH
        0.N Minimum ratio of bases that must remap in liftOver
        step.Default: 30 (0.30 minimum ratio)
--g, --gene Generate results at gene level results (default: False)
+-g, --gene Generate results at gene level(default: False)
 
 ```
 ##  Gene Clustering
