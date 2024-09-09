@@ -4,13 +4,13 @@ Optimized and modified version of ConnectOR (https://github.com/Carlospq/Connect
 Optimized & modified by: Sasti Gopal Das
 ![Human JPG](https://github.com/cobRNA/ConnectOR-optimized/blob/main/image/ConnectOR.v.3.0.jpg)
 ## Prerequisites:
-#### Python3: ##### (install Python 3)
+#### Python3: (install Python 3)
 
 ```sh
-install Packages
+install Packages 
 
-wget
-pandas
+pip3 install wget
+pip3 install pandas
 ```
 #### R:
 ```sh
