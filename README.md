@@ -46,7 +46,7 @@ Mouse	mm39	GTFs/gencode.vM36.primary_assembly.annotation.gtf.gz	chainmaps/mm39To
 ```
 #### Execution command:
 ```sh
-Python ConnectOR.v.3.0.py
+Python3 ConnectOR.v.3.0.py
 
 usage: ConnectOR.v.3.0.py [-h] [-mM MINMATCH] [-g]
 
