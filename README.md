@@ -2,7 +2,7 @@
 Optimized and modified version of ConnectOR (https://github.com/Carlospq/ConnectOR) originaly developed by Carlos Pulido and Daniel Kużnicki.
 
 Optimized & modified by: Sasti Gopal Das
-![Human JPG](https://github.com/cobRNA/ConnectOR-optimized/blob/main/image/ConnectOR.v.3.0.jpg)
+![Human JPG](https://github.com/cobRNA/ConnectOR-optimized/blob/main/image/human-png-34015.jpg)
 ## Prerequisites:
 #### Python3: (install Python 3)
 
