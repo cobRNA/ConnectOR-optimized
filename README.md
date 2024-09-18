@@ -4,6 +4,7 @@ Optimized and modified version of ConnectOR (https://github.com/Carlospq/Connect
 Optimized & modified by: Sasti Gopal Das
 ![Human JPG](https://github.com/cobRNA/ConnectOR-optimized/blob/main/image/human-png-34015.jpg)
 ## Prerequisites:
+#### Ubuntu or Linux Mint required to run ConnectOR
 #### Python3: (install Python 3)
 
 ```sh
